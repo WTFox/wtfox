@@ -10,7 +10,7 @@ const anthony = {
   code: ["Python", "Go", "SQL", "Javascript", "Typescript", "HTML", "CSS"],
   tools: ["AWS", "Django", "React", "Docker"],
   architecture: ["microservices", "event-driven", "containers"],
-  challenge: "I'm currently converting https://afox.dev to TypeScript.",
+  challenge: "Adding JSON-streaming support to wtfox/jsonfind to support larger JSON files.",
 };
 ```
 
